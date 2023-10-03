@@ -1,7 +1,7 @@
 ![I am currently gathering knowledge on Software Quality Assurance.](https://media.licdn.com/dms/image/D5616AQEcbD1m5bPf2Q/profile-displaybackgroundimage-shrink_350_1400/0/1670945517988?e=1701907200&v=beta&t=sWYKWSgAltQgfZTZpgaR3asEs_0I6TMv1_wvZhzumRU)
 
-### Hi there 👋, I'm ***Istiaq Alam Sarjil.***
-#### I am currently gathering knowledge on Software Quality Assurance.
+## Hi there 👋, I'm ***Istiaq Alam Sarjil.***
+### I am currently gathering knowledge on Software Quality Assurance.
 
 Currently working as the Operation Manager at "AZANTECH PVT LTD" to support my tech team and the company as well to serve the best support to our clients. I achieved this position after working as an IT Executive in the same company for approximately 2 years.
 
