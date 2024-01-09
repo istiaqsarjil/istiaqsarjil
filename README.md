@@ -1,4 +1,4 @@
-![I am currently gathering knowledge on Software Quality Assurance.](https://media.licdn.com/dms/image/D5616AQEcbD1m5bPf2Q/profile-displaybackgroundimage-shrink_350_1400/0/1670945517988?e=1701907200&v=beta&t=sWYKWSgAltQgfZTZpgaR3asEs_0I6TMv1_wvZhzumRU)
+![I am currently gathering knowledge on Software Quality Assurance.](https://media.licdn.com/dms/image/D5616AQEcbD1m5bPf2Q/profile-displaybackgroundimage-shrink_350_1400/0/1670945518894?e=1710374400&v=beta&t=HdT2meQuRSJ3dWxOUJOvkjkWHwM_ec6ZCm0TMEoUBpQ)
 
 ## Hi there 👋, I'm ***Istiaq Alam Sarjil.***
 ### I am currently gathering knowledge on Software Quality Assurance.
